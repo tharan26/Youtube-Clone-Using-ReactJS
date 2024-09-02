@@ -1,0 +1,38 @@
+.card{
+    height: 250px;
+    width: 400px;
+    border: 2px transparent;
+    border-radius: 8px;
+    margin: 10px;
+  }
+  
+  .cards{
+    display: flex;
+    justify-content: center;
+    margin-left: 15%;
+    margin-top: 8%;
+  }
+  
+.cd{
+  background-color: black;
+  margin-left: 10px;
+  border-radius: 10px;
+  width: 420px;
+}
+
+  .text1,.text2{
+    margin-left: 10px;
+    color: white;
+  }
+  
+  .text1{
+    font-size: large;
+    text-align: justify;
+    font-weight: bold;
+  }
+
+  .text2{
+    text-align: justify;
+    font-size: medium;
+  }
+  

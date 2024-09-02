@@ -1,0 +1,38 @@
+.card1{
+    height: 250px;
+    width: 400px;
+    border: 2px transparent;
+    border-radius: 8px;
+    margin: 10px;
+  }
+  
+  .cards1{
+    display: flex;
+    justify-content: center;
+    margin-left: 15%;
+    margin-top: 2%;
+  }
+  
+.cd1{
+  background-color: black;
+  margin-left: 10px;
+  border-radius: 10px;
+  width: 420px;
+}
+
+  .title1,.channel1{
+    margin-left: 10px;
+    color: white;
+  }
+  
+  .title1{
+    font-size: large;
+    text-align: justify;
+    font-weight: bold;
+  }
+
+  .channel1{
+    text-align: justify;
+    font-size: medium;
+  }
+  
