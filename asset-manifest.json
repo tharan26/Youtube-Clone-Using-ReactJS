@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Youtube-Clone-Using-ReactJS/static/css/main.a9462b54.css",
+    "main.js": "/Youtube-Clone-Using-ReactJS/static/js/main.695bb6d5.js",
+    "static/js/453.40e38652.chunk.js": "/Youtube-Clone-Using-ReactJS/static/js/453.40e38652.chunk.js",
+    "static/media/img2.jpg": "/Youtube-Clone-Using-ReactJS/static/media/img2.c6410ec25316f9de6876.jpg",
+    "static/media/img5.jpg": "/Youtube-Clone-Using-ReactJS/static/media/img5.373b5b00de9de6c61ba1.jpg",
+    "static/media/img6.jpg": "/Youtube-Clone-Using-ReactJS/static/media/img6.bc202248d85174e050d2.jpg",
+    "static/media/img7.jpg": "/Youtube-Clone-Using-ReactJS/static/media/img7.e7073938efd5d057fba1.jpg",
+    "static/media/img8.jpg": "/Youtube-Clone-Using-ReactJS/static/media/img8.c2e193ffc975d0d03ad7.jpg",
+    "static/media/img4.jpg": "/Youtube-Clone-Using-ReactJS/static/media/img4.b8e71f720f0b81d4b6b6.jpg",
+    "static/media/img3.jpg": "/Youtube-Clone-Using-ReactJS/static/media/img3.eeccd1259db9450801f1.jpg",
+    "static/media/img1.jpg": "/Youtube-Clone-Using-ReactJS/static/media/img1.74d3bbb6e5fef4ba2c51.jpg",
+    "index.html": "/Youtube-Clone-Using-ReactJS/index.html",
+    "main.a9462b54.css.map": "/Youtube-Clone-Using-ReactJS/static/css/main.a9462b54.css.map",
+    "main.695bb6d5.js.map": "/Youtube-Clone-Using-ReactJS/static/js/main.695bb6d5.js.map",
+    "453.40e38652.chunk.js.map": "/Youtube-Clone-Using-ReactJS/static/js/453.40e38652.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9462b54.css",
+    "static/js/main.695bb6d5.js"
+  ]
+}
