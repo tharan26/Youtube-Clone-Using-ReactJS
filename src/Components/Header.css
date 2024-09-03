@@ -59,6 +59,12 @@ header {
     cursor: pointer;
 }
 
+
+.search .mic:hover{
+    background-color: #282C35;
+    color: white;
+}
+
 .user{
     margin-left: 23%;
     display: flex;
@@ -68,15 +74,26 @@ header {
     color: white;
     font-size: xx-large;
     margin-left: 10px;
+    cursor: pointer;
 }
 
 .user .add{
     color: white;
     font-size: xx-large;
+    cursor: pointer;
 }
 
 .user .pro{
     color: white;
     font-size: xx-large;
     margin-left: 50px;
+    cursor: pointer;
+}
+
+.user .bell:hover{
+    color: #282C35;
+}
+
+.user .add:hover{
+    color: #282C35;
 }
