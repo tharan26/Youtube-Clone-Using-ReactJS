@@ -12,6 +12,7 @@
     font-size: larger;
     text-align: center;
     color: white;
+    cursor: pointer;
 }
 
 
@@ -20,6 +21,7 @@
     text-align: center;
     margin-top: 25px;
     color: white;
+    cursor: pointer;
 }
 
 .icons h2 {
@@ -40,4 +42,14 @@
 .tools i {
     font-size: 30px;
     color: #faf0ca;
+}
+
+.icons:hover{
+    border: 1px transparent;
+    background-color: #282C35;
+    border-radius: 10px;
+    width: 80px;
+    height: 50px;
+    margin-left: 8px;
+    padding-top: 10px;
 }
